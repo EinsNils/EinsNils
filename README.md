@@ -31,7 +31,7 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
 <br >
 <br >
 
-<details>
+<More
 
 
 ## What is TroubleAC?
@@ -50,7 +50,7 @@ No Activity tracked this Week
 
 ![EinsNils's github stats](https://github-readme-stats.vercel.app/api?username=EinsNils&count_private=false&theme=tokyonight&hide=contribs,prs)
 
-</details>
+</More>
 
 
 
