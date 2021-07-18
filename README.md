@@ -35,6 +35,8 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=einsnils.einsnils)
 
+<details>
+
 
 ## What is TroubleAC?
 
