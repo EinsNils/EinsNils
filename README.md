@@ -20,6 +20,8 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 
+<img align="left" alt="Visual Studio Code" width="35px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
+
 
 <br >
 <br >
