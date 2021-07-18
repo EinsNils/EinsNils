@@ -36,18 +36,6 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
   More stuff about me
 </summary>
 
-## What is TroubleAC?
-
-- 🔭 TroubleAC is a project launched by 1combit. Our goal is to develop open source software for Minecraft servers.
-
-## Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 ## Github Stats
 
 ![EinsNils's github stats](https://github-readme-stats.vercel.app/api?username=EinsNils&count_private=false&theme=tokyonight&hide=contribs,prs)
