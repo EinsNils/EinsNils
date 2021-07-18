@@ -43,7 +43,9 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
 ## Coding Stats
 
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## Github Stats
