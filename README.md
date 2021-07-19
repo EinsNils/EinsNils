@@ -37,6 +37,12 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
 ## Github Stats
   
 <!--START_SECTION:waka-->
+```text
+Markdown   54 mins         ███████████▓░░░░░░░░░░░░░   46.86 % 
+YAML       33 mins         ███████▒░░░░░░░░░░░░░░░░░   28.90 % 
+Java       18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Python     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+```
 <!--END_SECTION:waka-->
 
 ![EinsNils's github stats](https://github-readme-stats.vercel.app/api?username=EinsNils&count_private=false&theme=tokyonight&hide=contribs,prs)
