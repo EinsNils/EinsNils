@@ -35,6 +35,9 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
 </summary>
 
 ## Github Stats
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![EinsNils's github stats](https://github-readme-stats.vercel.app/api?username=EinsNils&count_private=false&theme=tokyonight&hide=contribs,prs)
 
