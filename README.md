@@ -8,7 +8,7 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
 
 - 🔭 I’m currently working at @TroubleAC
 - 📫 How to reach me on Discord: EinsNils#3285
-- ⚡ Fun fact: I play games and talk with Friends
+- ⚡ Fun fact: I play games and lerne C#
 
 ## Languages and Tools:
 
