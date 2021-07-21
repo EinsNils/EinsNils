@@ -6,7 +6,7 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
 [![Twitter Badge](https://img.shields.io/badge/-@EinsNils-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EinsNils)](https://twitter.com/EinsNils)  [![Mail Badge](https://img.shields.io/badge/-@nils_zentgraf-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nils_zentgraf)
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Distaria
+- 🔭 I’m currently working at @DistariaNetwork
 - 📫 How to reach me on Discord: EinsNils#3285
 - ⚡ Fun fact: I play games and lerne C#
 
