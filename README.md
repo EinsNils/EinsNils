@@ -39,11 +39,11 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
   
 <!--START_SECTION:waka-->
 ```text
-Java         12 hrs 42 mins  ███████████████▓░░░░░░░░░   62.96 % 
-HTML         2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-JavaScript   1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-XML          1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-YAML         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Java         9 hrs 29 mins   ██████████████▓░░░░░░░░░░   58.24 % 
+HTML         2 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+JavaScript   1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+XML          1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+CSS          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 <!--END_SECTION:waka-->
 
