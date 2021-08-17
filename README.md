@@ -1,7 +1,6 @@
 # Hi I'm Nils <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projects.
-
+Hey, my name is Nils. I am 16 years old and still in school. In the future I would like to be an software engineer. I started to code Minecraft plugins. I love to develop new things. I have experience with servers, especially Debian 10.
 
 [![Twitter Badge](https://img.shields.io/badge/-@EinsNils-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EinsNils)](https://twitter.com/EinsNils)  [![Mail Badge](https://img.shields.io/badge/-@nils_zentgraf-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nils_zentgraf)
 <!-- TODO: Add last video link -->
@@ -36,17 +35,7 @@ I'm Nils Zentgraf a Java Developer. I Spend most of time coding Minecraft projec
 </summary>
 
 ## Github Stats
-  
-<!--START_SECTION:waka-->
-```text
-Java         4 hrs 6 mins    █████████▓░░░░░░░░░░░░░░░   39.16 % 
-HTML         2 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.70 % 
-JavaScript   1 hr 56 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.60 % 
-CSS          1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-PHP          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-```
-<!--END_SECTION:waka-->
-
+ 
 ![EinsNils's github stats](https://github-readme-stats.vercel.app/api?username=EinsNils&count_private=false&theme=tokyonight&hide=contribs,prs)
 
 </details>
