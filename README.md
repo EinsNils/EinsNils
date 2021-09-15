@@ -6,6 +6,7 @@ Hey, my name is Nils. I am 16 years old and still in school. In the future I wou
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @DistariaNetwork
+- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me on Discord: EinsNils#3285
 - ⚡ Fun fact: I love food 
 
