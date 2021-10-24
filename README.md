@@ -2,8 +2,6 @@
 
 Hey, my name is Nils. I am 16 years old and still in school. In the future I would like to be an software engineer. I started to code Minecraft plugins. I love to develop new things. I have experience with servers, especially Debian 10 an Ubuntu.
 
-[![Twitter Badge](https://img.shields.io/badge/-@EinsNils-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EinsNils)](https://twitter.com/EinsNils)  [![Mail Badge](https://img.shields.io/badge/-@nils_zentgraf-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/nils_zentgraf)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/EinsNils?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2DistariaNetwork&screen_name=EinsNils)
 <!-- TODO: Add last video link -->
 
