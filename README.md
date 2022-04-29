@@ -2,10 +2,6 @@
 
 Hey, my name is Nils. I am 17 years old and still in school. In the future I would like to be an software engineer. I started to code Minecraft plugins. I love to develop new things. I have experience with servers, especially Debian 10 an Ubuntu.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/EinsNils?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2DistariaNetwork&screen_name=EinsNils)
-<!-- TODO: Add last video link -->
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [TanoMC](github.com/tanomc)
