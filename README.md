@@ -9,7 +9,7 @@ Hey, my name is Nils. I am 17 years old and still in school. In the future I wou
 - ⚡ Fun fact **I love food**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> On Discord EinsNils#3285
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
