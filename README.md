@@ -1,7 +1,5 @@
 # Hi I'm Nils <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hey, my name is Nils. I am 17 years old and still in school. In the future I would like to be an software engineer. I started to code Minecraft plugins. I love to develop new things. I have experience with servers, especially Debian 10 an Ubuntu.
-
 - 🔭 I’m currently working on [TanoMC](github.com/tanomc)
 
 - 📫 How to reach me on Discord **EinsNils#3285**
