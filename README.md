@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nils</h1>
 <h3 align="center">Trainee for Software Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=einsnils&label=Profile%20views&color=0e75b6&style=flat" alt="einsnils" /> </p>
-
 - 🔭 I’m currently working on **BalticGalaxy**
 
 - 📫 How to reach me **nils.zentgraf@aol.com**
