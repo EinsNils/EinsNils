@@ -7,6 +7,6 @@
 
 - ⚡ Fun fact **I love eat**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinsNils&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinsNils&show_icons=true&theme=transparent)
 
 
