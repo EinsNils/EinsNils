@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **nils.zentgraf@aol.com**
 
-- ⚡ Fun fact **I love eat**
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EinsNils&show_icons=true&theme=transparent)
 
 
