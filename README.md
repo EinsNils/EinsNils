@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nils</h1>
 <h3 align="center">Trainee for Software Development</h3>
 
-- 🔭 I’m currently working on **TanoMC**
+- 🔭 I’m currently working on **TanoMC**!
 
 - 📫 How to reach me **nils.zentgraf@aol.com**
 
